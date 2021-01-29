@@ -7,6 +7,9 @@ public class Test1 {
 		
 		System.out.println("黑色");
 		System.out.println("222");
+
+		System.out.println("1");
+
 	}
 
 }
