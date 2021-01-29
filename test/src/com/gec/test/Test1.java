@@ -6,6 +6,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		System.out.print("11");
 		System.out.print("芜湖");
+		System.out.println("qifei");
 	}
 
 }
