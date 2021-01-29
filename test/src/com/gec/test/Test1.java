@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.print("11");
 		System.out.print("芜湖");
 		System.out.println("qifei");
+		System.out.println("黑色");
 	}
 
 }
